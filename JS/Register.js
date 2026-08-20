@@ -75,5 +75,5 @@ At least one special character (@$!%*?&)`
     localStorage.setItem("users", JSON.stringify(users));
     alert("Registration Successful!");
     // Redirect to Login Page
-    window.location.href = "login.html";
+    window.location.href = "Login.html";
 });
